@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Veena 
-- 👀 I’m interested in Data science and bioinformatics
+- 👀 I’m interested in Data science and Data Analysis in Finance and healthcare
 - 🌱 I’m currently learning Machine Learning, Data mining, Deep Learning, Statistical methods and Database management systems design.
 - 💞️ I’m looking to collaborate on implementing machine learning and deep learning algorithms
 - 📫 Reach me by https://github.com/vac38/vac38.git
